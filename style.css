@@ -3,7 +3,7 @@
   justify-content: flex-start;
   align-items: center;
   height: 34px;
-  margin: 25px;
+  margin: 30px;
   border: 1px solid lightgray;
 }
 
@@ -42,17 +42,17 @@
 }
 
 [data-color="green"] {
-  height: 33px;
+  height: 40px;
   background-color: green;
 }
 
 [data-color="red"] {
-  height: 33px;
+  height: 50px;
   background-color: red;
 }
 
 [data-color="yellow"] {
-  height: 33px;
+  height: 60px;
   background-color: yellow;
 }
 
